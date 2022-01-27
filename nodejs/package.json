@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "nodemo": "^1.0.0",
+    "nodemon": "^2.0.15",
+    "yargs": "^17.3.1"
+  }
+}

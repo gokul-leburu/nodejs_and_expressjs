@@ -1,0 +1,6 @@
+
+{"type":"Windows_NT","release":"10.0.19044","uptime":1168313,"total memory":17028775936,"free memory":8775884800}
+{"type":"Windows_NT","release":"10.0.19044","uptime":1168352,"total memory":17028775936,"free memory":8766607360}
+{"type":"Windows_NT","release":"10.0.19044","uptime":1168363,"total memory":17028775936,"free memory":8789733376}
+{"type":"Windows_NT","release":"10.0.19044","uptime":1168381,"total memory":17028775936,"free memory":8806105088}
+{"type":"Windows_NT","release":"10.0.19044","uptime":1168478,"total memory":17028775936,"free memory":8799109120}

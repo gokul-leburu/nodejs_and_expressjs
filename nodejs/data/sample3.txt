@@ -1,0 +1,4 @@
+this is the txt in sample
+<html>
+    <script src="dollar.js"></script>
+</html>
