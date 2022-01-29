@@ -1,7 +1,7 @@
 const express=require("express")
 const app=express()
 const mongoose=require("mongoose")
-mongoose.connect("mongodb+srv://gokulleburu:qwer$asdf@gokulleburu.anigd.mongodb.net/nodejs?retryWrites=true&w=majority",
+mongoose.connect("mongodb+srv://gokulleburu:<passowrd>@gokulleburu.anigd.mongodb.net/nodejs?retryWrites=true&w=majority",
 {useNewUrlParser: true, useUnifiedTopology: true})
 const user=mongoose.model("Students",{
     email:{
